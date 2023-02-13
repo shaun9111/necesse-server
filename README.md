@@ -1,14 +1,16 @@
 # necesse-server
 How to create a necesse server on oracle cloud for free. (https://www.oracle.com/ca-en/cloud/free/)
 
-This will require some knowloegd of creating an instance on oracle cloud and how to open ports on oracle cloud. Those steps arent listed yet. If you want, you can try looking at this video below <
+This will require some knowloegd of creating an instance on oracle cloud and how to open ports on oracle cloud. Those steps arent listed yet. If you want, you can try looking at this video below   
 https://youtu.be/g7sP33QtuxM
 
 If anyone wants to commit changes, I will check them and credit you in the readme file afterwards. 
 
-LINKS
+##LINKS
 1. https://www.putty.org/
 2. https://filezilla-project.org/
+
+###Instructions 
 
 Once you have a vm up and running and you have SSH into it using putty or other similar program. use the putty terminal to run these commands.
 
