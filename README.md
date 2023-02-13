@@ -6,11 +6,11 @@ https://youtu.be/g7sP33QtuxM
 
 If anyone wants to commit changes, I will check them and credit you in the readme file afterwards. 
 
-##LINKS
+## LINKS
 1. https://www.putty.org/
 2. https://filezilla-project.org/
 
-###Instructions 
+### Instructions 
 
 Once you have a vm up and running and you have SSH into it using putty or other similar program. use the putty terminal to run these commands.
 
