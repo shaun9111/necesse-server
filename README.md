@@ -5,6 +5,10 @@ This will require some knowloegd of creating an instance on oracle cloud and how
 
 If anyone wants to commit changes, I will check them and credit you in the readme file afterwards. 
 
+LINKS
+https://www.putty.org/
+https://filezilla-project.org/
+
 Once you have a vm up and running and you have SSH into it using putty or other similar program. use the putty terminal to run these commands.
 
 1. sudo yum check-update
