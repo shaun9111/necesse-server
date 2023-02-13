@@ -1,7 +1,8 @@
 # necesse-server
 How to create a necesse server on oracle cloud for free. (https://www.oracle.com/ca-en/cloud/free/)
 
-This will require some knowloegd of creating an instance on oracle cloud and how to open ports on oracle cloud. Those steps arent listed yet.
+This will require some knowloegd of creating an instance on oracle cloud and how to open ports on oracle cloud. Those steps arent listed yet. If you want, you can try looking at this video below <
+https://youtu.be/g7sP33QtuxM
 
 If anyone wants to commit changes, I will check them and credit you in the readme file afterwards. 
 
