@@ -16,3 +16,4 @@ If anyone wants to commit changes, I will check them and credit you in the readm
 9. sudo firewall-cmd --permanent --zone=public --add-port=14159/udp
 10. Open ports on instence subnet on oracle
 11. sudo firewall-cmd --reload
+12. ./StartServer-nogui.sh
