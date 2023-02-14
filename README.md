@@ -28,3 +28,7 @@ Once you have a vm up and running and you have SSH into it using putty or other 
 10. sudo firewall-cmd --reload
 11. open tcp/udp 14159 port on oracle VM instance
 12. ./StartServer-nogui.sh
+
+
+
+### This guide will be updated over time regardless if anyone makes any committs. Im also thinking of making a youtube guide. stay tuned
